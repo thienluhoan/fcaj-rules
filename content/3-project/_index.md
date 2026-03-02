@@ -93,8 +93,8 @@ Mỗi event (Event 1, Event 2, …) cần có:
 
 ### 2.1. Hình thức khuyến khích
 
-* Workshop website (sử dụng **Hugo template**)
-* Template gợi ý: [FCAJ-workshop-template](https://workshop-sample.fcjuni.com/) trên GitHub
+* Workshop website: [Mẫu workshop](https://workshop-sample.fcjuni.com/)
+* Template gợi ý: [FCAJ-workshop-template](https://github.com/thienluhoan/fcj-workshop-template) trên GitHub
 
 ### 2.2. Yêu cầu bắt buộc
 
