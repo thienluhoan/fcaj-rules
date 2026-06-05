@@ -10,16 +10,16 @@ pre: " <b> 1.3. </b> "
 #### Trang phục yêu cầu
 
 - Quy định chung:
-  - **Bắt buộc mặc áo đồng phục FACJ** khi đến văn phòng (nếu đã có)
+  - **Khuyến khích mặc áo đồng phục FCAJ** khi đến văn phòng (nếu đã có) để ra vào thuận tiện hơn.
   - **Bắt buộc mặc quần dài** khi làm việc tại văn phòng (không mặc quần short, quần thể thao, váy ngắn)
-  - Đi **giày** lịch sự, sạch sẽ (không đi dép lê)
+  - Đi **giày** lịch sự, sạch sẽ (không đi dép lê, dép cross)
   - Trang phục phải gọn gàng, chỉnh chu và phù hợp với môi trường làm việc chuyên nghiệp
   - **Đeo thẻ visitor** trong suốt thời gian làm việc tại văn phòng (thẻ visitor sẽ nói rõ ở phần [Hướng dẫn di chuyển đến văn phòng](2-instructions/2.4-moving))
 
 - Trường hợp chưa có áo đồng phục:
   - Mang áo đồng phục của trường (nếu có) hoặc áo bình thường
   - Đeo thẻ sinh viên trong suốt quá trình học tập và làm việc tại văn phòng
-  - **Lưu ý: Vi phạm sẽ bị trừ điểm phần tác phong.**
+- **Lưu ý: Vi phạm sẽ bị trừ điểm phần tác phong.**
 
 #### Tác phong làm việc
 

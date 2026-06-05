@@ -10,7 +10,7 @@ pre: " <b> 3. </b> "
 
 #### 1.1. Hình thức bắt buộc
 
-* Workshop website: [Mẫu workshop](https://workshop-sample.fcjuni.com/)
+* Workshop website: [Mẫu workshop](https://workshop-sample.awsfcaj.com/)
 * Template: [FCAJ-workshop-template](https://github.com/thienluhoan/fcj-workshop-template) trên GitHub (Dựa trên template này, hãy làm 1 bản riêng biệt dành cho bản thân)
 
 #### 1.2. Yêu cầu bắt buộc

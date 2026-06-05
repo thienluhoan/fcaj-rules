@@ -5,26 +5,27 @@ weight: 5
 chapter: false
 pre: " <b> 2.5. </b> "
 ---
+Sau khi đã check-in tại văn phòng, các bạn cần thực hiện check-out trên trang Self-Service để hoàn tất điểm danh trong ngày.
 
-Để ghi nhận sự hiện diện của các bạn tại văn phòng, các bạn vui lòng thực hiện các bước bước sau để điểm danh khi tham gia lên văn phòng aws để học tập:
+#### Cách thức check-out
 
-#### Cách thức điểm danh
+- Truy cập **Self-Service** trên portal.
+- Chọn mục **Check-in** ở thanh menu bên trái.
+- Tại danh sách lịch đăng ký trong ngày, tìm dòng đã **Checked In** và bấm **Check Out**.
 
-- Hình thức điểm danh: Online.
+![checkout-1](/images/2-instructions/checkout-1.png)
 
-- Trang web điểm danh: [Điểm danh](https://diemdanh.fcjuni.com)
+- Một hộp thoại xác nhận sẽ hiển thị. Kiểm tra lại ngày cần check-out, sau đó bấm **Check Out** để xác nhận.
 
-- Thời gian điểm danh: 16:00 - 17:00 cùng ngày.
+![checkout-2](/images/2-instructions/checkout-2.png)
 
-- Trang điểm danh sẽ có giao diện như sau:
+- Khi thao tác thành công, hệ thống sẽ hiển thị thông báo **Success**.
 
-![attendance_page](/images/2-instructions/attendance_page.png)
+![checkout-3](/images/2-instructions/checkout-3.png)
 
-#### Một số quy định điểm danh
+#### Lưu ý
 
-- Chỉ sử dụng 1 email duy nhất để đăng ký trong quá trình học tập và làm việc.
-
-- **Không** điểm danh sau 17h. Mọi điểm danh sau thời gian sẽ bị coi như là đăng ký lên văn phòng nhưng vắng mặt.
-
-- **Không** điểm danh hộ (điểm danh cho người khác). Mọi điểm danh này sẽ bị phát hiện và sẽ bị xem như là đăng ký lên văn phòng nhưng vắng mặt.
-
+- Chỉ thực hiện check-out sau khi đã check-in đúng ngày đăng ký.
+- Sau khi hoàn tất, các bạn có thể kiểm tra lại trạng thái trong **Attendance History**.
+- Checkout sau 17h sẽ được xem là vắng mặt.
+- Khi checkout không thành công, vui lòng liên hệ ngay với các anh chị admin.

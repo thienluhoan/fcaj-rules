@@ -9,7 +9,7 @@ pre: " <b> 1.1. </b> "
 
 #### Điều kiện nhận mộc thực tập
 - Sinh viên thực tập phải đảm bảo lên văn phòng **tối thiểu 10 ngày full time trong vòng 3 tháng**
-- Việc tham gia Event tối thiểu **4 buổi Event**.
+- Việc tham gia Event tối thiểu **3 buổi Event**.
 - Việc điểm danh được thực hiện dựa trên hệ thống đăng ký và điểm danh tại văn phòng
 - Thực hiện Project theo đúng quy định.
 

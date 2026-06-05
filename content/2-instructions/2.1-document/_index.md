@@ -6,13 +6,13 @@ chapter: false
 pre: " <b> 2.1. </b> "
 ---
 
-#### Các nguồn tài liệu học tập trong chương trình FACJ Workforce
+#### Các nguồn tài liệu học tập trong chương trình FCAJ Workforce
 
 #### Hệ thống bài giảng trên youtube
 
    * [Kênh Youtube AWS Study Group ↗](https://www.youtube.com/@AWSStudyGroup) 
 
-   * [Bài giảng: First Cloud AI Journey Bootcamp 2025 ↗](https://www.youtube.com/watch?v=AQlsd0nWdZk&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i)
+   * [Bài giảng: First Cloud AI Journey Bootcamp 2024 ↗](https://www.youtube.com/watch?v=AQlsd0nWdZk&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i)
 
 #### Hệ thống các bài lab - Tài liệu làm lab
 

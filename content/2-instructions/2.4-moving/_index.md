@@ -5,30 +5,29 @@ weight: 4
 chapter: false
 pre: " <b> 2.4. </b> "
 ---
-
 Dưới đây là toàn bộ hướng dẫn chi tiết để giúp các bạn nào chưa từng đến văn phòng AWS có thể di chuyển một cách thuận tiện nhất có thể:
 
 #### Chuẩn bị
 
 Trước khi lên văn phòng cần chuẩn bị những thứ sau:
+
 - Giấy tờ tùy thân: Thẻ căn cước công dân/bằng lái xe/thẻ sinh viên.
 - Máy tính laptop cá nhân.
 - Nước uống.
 
 #### Quy trình lên văn phòng
 
-- Khi di chuyển đến tòa nhà Bitexco, các bạn đi đến quầy lễ tân tại sảnh để đổi giấy tờ tuy thẻ visitor. Mục đích của thẻ này là để nhân viên bảo vệ trong tòa nhà nhận dạng được là khách hay nhân viên, từ đó sẽ hỗ trợ các bạn di chuyển một cách thuận lợi hơn. 
+- Khi di chuyển đến tòa nhà Bitexco, các bạn đi đến quầy lễ tân tại sảnh, **đọc họ tên của các bạn** để được bảo vệ mở cửa vào.
 
 ![upstair](/images/2-instructions/upstair1.png)
 
-
+- Trường hợp các bạn đến vì **lí do khác**, vui lòng **mượn thẻ** visitor để được vào cổng.
+- Để mượn thẻ visitor, các bạn phải có giấy tờ tùy thân (CCCD / bằng lái).
 - Thẻ visitor như hình dưới:
-![visitor_card](/images/2-instructions/visitor_card.jpg)
-
-- Sau khi nhận được thẻ, các bạn vui lòng đeo lên và đi về hướng bảo vệ đang đứng tại cổng ra vào (trước thang cuốn, đối diện quầy lễ tân tại sảnh). Bảo vệ tòa nhà sẽ quẹt thẻ và mở cửa cho bạn.
+  ![visitor_card](/images/2-instructions/visitor_card.jpg)
+- Sau khi nhận được thẻ (nếu có), các bạn vui lòng đeo lên và đi về hướng bảo vệ đang đứng tại cổng ra vào (trước thang cuốn, đối diện quầy lễ tân tại sảnh). Bảo vệ tòa nhà sẽ quẹt thẻ và mở cửa cho bạn.
 
 ![upstair](/images/2-instructions/upstair2.png)
-
 
 - Sau khi đi qua cổng, các bạn vui lòng di chuyển lên tầng 1 thông qua **thang cuốn**.
 
@@ -42,25 +41,22 @@ Trước khi lên văn phòng cần chuẩn bị những thứ sau:
 
 ![elevator](/images/2-instructions/ele-call.png)
 
-
 - Khi đã di chuyển lên tầng 26, vui lòng đi qua cửa chính và checkin với bảo vệ trực (đọc tên của mình để bảo vệ check tên trong danh sách)
 
 {{% notice warning %}}
-Tại tầng 26, đảm bảo checkin với bảo vệ, nếu không thấy bảo vệ, vui lòng đợi.  
+Tại tầng 26, đảm bảo checkin với bảo vệ, nếu không thấy bảo vệ, vui lòng đợi.
 Sau khi **checkin xong**, các bạn **đi thẳng vào phòng Q room** (phòng event). Nếu không rõ có thể hỏi bảo vệ.
 {{% /notice %}}
 
-
-
 {{% notice warning %}}
-**Lưu ý:** Vì các phòng này cần được mở khóa bởi lễ tân, nếu các bạn đến trước lễ tân, có thể sẽ không vào được phòng. <br> Trong trường hợp này, vui lòng chờ cho đến khi gặp được các anh chị lễ tân và nhờ họ mở.   
+**Lưu ý:** Vì các phòng này cần được mở khóa bởi lễ tân, nếu các bạn đến trước lễ tân, có thể sẽ không vào được phòng.
+Trong trường hợp này, vui lòng chờ cho đến khi gặp được các anh chị lễ tân và nhờ họ mở.
 {{% /notice %}}
 
 - Sau khi vào được phòng, vui lòng tìm một vị trí ghế trống để ngồi và sử dụng laptop để học tập và làm việc.
-
 - Password wifi tại văn phòng AWS:
-  - **Tầng 26:** 
+
+  - **Tầng 26:**
     - **SSID**: Event Hall
     - **Pass**: q1w2e3r4t5y6
-  
 - Các bạn có thể nhờ sự hỗ trợ của lễ tân/team admin tại văn phòng trong trường hợp cần thiết.
