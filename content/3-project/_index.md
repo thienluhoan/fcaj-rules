@@ -84,6 +84,7 @@ Mỗi event (Event 1, Event 2, …) cần có:
 * Địa điểm
 * Vai trò
 * Nội dung chính
+* Hình ảnh hoặc video chứng minh tham gia
 * Bài học rút ra / đóng góp cá nhân
 
 #### 2.6. Workshop (Project kỹ thuật chính)
