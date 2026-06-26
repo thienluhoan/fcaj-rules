@@ -18,3 +18,4 @@ Trong phần này, chúng tôi sẽ trình bày các quy định quan trọng li
 3.  [Quy định về trang phục và tác phong](1-regulations/1.3-dress-code/)
 4.  [Quy định về ra vào văn phòng](1-regulations/1.4-inout)
 5.  [Quy định về ăn uống và sử dụng đồ dùng](1-regulations/1.5-eatuse)
+6.  [Quy định về việc sử dụng nhà vệ sinh](1-regulations/1.6-toilet/)

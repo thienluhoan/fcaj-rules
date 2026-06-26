@@ -18,3 +18,4 @@ Hãy xem đây như một cẩm nang nhập môn, hỗ trợ bạn dễ dàng ti
 3.  [Hướng dẫn gửi xe máy](2-instructions/2.3-parking/)
 4.  [Hướng dẫn di chuyển đến văn phòng](2-instructions/2.4-moving/)
 5.  [Hướng dẫn điểm danh](2-instructions/2.5-attendance/)
+6.  [Hướng dẫn sử dụng nhà vệ sinh](2-instructions/2.6-toilet/)

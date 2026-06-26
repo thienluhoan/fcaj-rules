@@ -18,6 +18,7 @@ I. [Nội quy](1-regulations/)
 3.  [Quy định về trang phục và tác phong](1-regulations/1.3-dress-code/)
 4.  [Quy định về ra vào văn phòng](1-regulations/1.4-inout/)
 5.  [Quy định về ăn uống và sử dụng đồ dùng](1-regulations/1.5-eatuse/)
+6.  [Quy định về việc sử dụng nhà vệ sinh](1-regulations/1.6-toilet/)
 
 II. [Hướng dẫn](2-instructions/)
 
@@ -26,6 +27,7 @@ II. [Hướng dẫn](2-instructions/)
 3.  [Hướng dẫn gửi xe máy](2-instructions/2.3-parking/)
 4.  [Hướng dẫn di chuyển lên văn phòng](2-instructions/2.4-moving/)
 5.  [Hướng dẫn điểm danh](2-instructions/2.5-attendance/)
+6.  [Hướng dẫn sử dụng nhà vệ sinh](2-instructions/2.6-toilet/)
   
 III. [Hướng dẫn project](3-project/)
 
