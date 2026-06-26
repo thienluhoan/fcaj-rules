@@ -27,7 +27,7 @@ Các bạn sinh viên **bắt buộc phải đi đúng nhà vệ sinh dành riê
 
 #### 2. Nhà vệ sinh Nữ (Women's WC)
 *   **Vị trí:** Nằm ở **khu vực sảnh thang máy bên ngoài văn phòng AWS**.
-*   **Nhận diện:** Rẻ trái ngay cạnh sảnh chờ thang máy số 4 và số 5 (bên ngoài cửa kính ra vào chính của văn phòng) đi thẳng hướng đó đến khoảng giữa lối đi, nhà vệ sinh ở ngay bên trái.
+*   **Nhận diện:** Rẻ trái ngay cạnh sảnh chờ thang máy số 4 và số 5 (bên ngoài cửa kính ra vào chính của văn phòng) đi thẳng hướng đó đến khoảng giữa sảnh, nhà vệ sinh ở ngay bên trái.
 
 ![Nhà vệ sinh Nữ](/images/WCWomen.jpg)
 
