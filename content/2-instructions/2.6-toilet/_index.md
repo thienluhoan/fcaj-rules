@@ -17,15 +17,15 @@ Các bạn sinh viên **bắt buộc phải đi đúng nhà vệ sinh dành riê
 
 ### Hướng dẫn đường đi
 
-#### 1. Nhà vệ sinh Nam (Men's WC)
-*   **Vị trí:** Nằm ở phía cuối hành lang đi bộ **bên trong khu vực văn phòng AWS**.
-*   **Nhận diện:** Đi dọc theo hành lang bên trong văn phòng đến khu vực có bức tường trang trí dòng chữ **"IT'S STILL DAY 1"**. Cửa vào nhà vệ sinh Nam nằm ngay phía bên phải hành lang này.
+#### 1. Nhà vệ sinh Nam
+*   **Vị trí:** Nằm ở **cửa sau của Event hall**.
+*   **Nhận diện:** Đi dọc theo hành lang từ cửa sau Event hall đến khu vực có bức tường trang trí dòng chữ **"IT'S STILL DAY 1"**. Cửa vào nhà vệ sinh Nam nằm ngay phía bên trái hành lang.
 
 ![Nhà vệ sinh Nam](/images/WCMen.jpg)
 
 ---
 
-#### 2. Nhà vệ sinh Nữ (Women's WC)
+#### 2. Nhà vệ sinh Nữ
 *   **Vị trí:** Nằm ở **khu vực sảnh thang máy bên ngoài văn phòng AWS**.
 *   **Nhận diện:** Rẻ trái ngay cạnh sảnh chờ thang máy số 4 và số 5 (bên ngoài cửa kính ra vào chính của văn phòng) đi thẳng hướng đó đến khoảng giữa sảnh, nhà vệ sinh ở ngay bên trái.
 

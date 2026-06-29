@@ -19,7 +19,7 @@ pre: " <b> 1.6. </b> "
    - Vui lòng bỏ rác và giấy vệ sinh đã qua sử dụng vào thùng rác được trang bị sẵn.
 
 3. **Tiết kiệm nước và giữ khô ráo**
-   - Không xả nước bừa bãi. Nhớ khóa chặt vòi nước bồn rửa tay sau khi sử dụng xong.
+   - Không xả nước bừa bãi.
    - Tránh làm vương vãi nước ra sàn nhà hoặc xung quanh bồn rửa mặt để giữ cho sàn nhà luôn khô ráo, tránh nguy cơ trơn trượt.
 
 4. **Sử dụng thiết bị văn minh**
