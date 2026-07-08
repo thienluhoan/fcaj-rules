@@ -111,8 +111,14 @@ Trường hợp trạng thái **Approved** nhưng không có mail, vui lòng li�
 ![app-ui-1](/images/2-instructions/13.png)
 
 - Bạn có thể xem lịch sử nộp workshop ở bên dưới. 
-- Workshop nộp xong sẽ hiển thị trạng thái **Pending review**. 
-- Chờ team chấm xong sẽ chuyển thành **Approve** hoặc **Reject** kèm feedback.
+- Workshop nộp xong sẽ hiển thị trạng thái **Pending review**.
+
+{{% notice info %}}
+**Lưu ý quan trọng về trạng thái đánh giá:**
+- **Approved**: Bài nộp đã đạt yêu cầu (Đã chấm).
+- **Reject**: Bài nộp chưa đạt. Vui lòng xem kỹ feedback từ team admin để tiến hành chỉnh sửa và cập nhật lại bài nộp.
+- **Lưu ý**: Hãy luôn chủ động kiểm tra trạng thái bài nộp để cập nhật thông tin kịp thời!
+{{% /notice %}}
 
 ![app-ui-1](/images/2-instructions/14.png)
 
@@ -125,6 +131,7 @@ Trường hợp trạng thái **Approved** nhưng không có mail, vui lòng li�
 ![app-ui-1](/images/2-instructions/15.png)
 
 - Sau khi nộp, bạn có thể xem lại lịch sử đã nộp kèm trạng thái.
+- Hãy thường xuyên kiểm tra trạng thái. Nếu trạng thái **Approved** -> In các file ra và đem lên văn phòng nộp. Nếu bị **Reject**, tiến hành chỉnh sửa file theo feedback.
 
 ![app-ui-1](/images/2-instructions/16.png)
 
