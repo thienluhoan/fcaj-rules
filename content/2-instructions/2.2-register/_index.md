@@ -132,6 +132,7 @@ Trường hợp trạng thái **Approved** nhưng không có mail, vui lòng li�
 
 - Sau khi nộp, bạn có thể xem lại lịch sử đã nộp kèm trạng thái.
 - Hãy thường xuyên kiểm tra trạng thái. Nếu trạng thái **Approved** -> In các file ra và đem lên văn phòng nộp. Nếu bị **Reject**, tiến hành chỉnh sửa file theo feedback.
+- Nếu trạng thái là **Stamped** nghĩa là giấy tờ của các bạn đã được đóng mộc thực tập, hãy lên văn phòng nhận.
 
 ![app-ui-1](/images/2-instructions/16.png)
 
