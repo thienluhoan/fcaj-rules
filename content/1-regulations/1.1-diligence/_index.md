@@ -51,7 +51,7 @@ Sinh viên được xét hoàn thành thực tập khi đáp ứng **đồng th�
 - **Không** nghỉ trưa xong về luôn — nghỉ trưa xong phải quay lại văn phòng làm việc.
 
 {{% notice warning %}}
-**Trọng tâm:** Mỗi lần tự ý bỏ về giữa chừng / nghỉ trưa xong về luôn bị **trừ 2 điểm trên tổng điểm**. Chi tiết cách tính xem **[4. Xử lý vi phạm](../../4-violations/)**.
+Mỗi lần tự ý bỏ về giữa chừng / nghỉ trưa xong về luôn bị **trừ 2 điểm trên tổng điểm**. Chi tiết cách tính xem **[4. Xử lý vi phạm](../../4-violations/)**.
 {{% /notice %}}
 
 ---

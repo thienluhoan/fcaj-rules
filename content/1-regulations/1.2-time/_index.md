@@ -8,7 +8,7 @@ pre: " <b> 1.2. </b> "
 
 Quy định về **giờ làm việc, khung giờ điểm danh trên portal, đăng ký lịch và nghỉ trưa**. Việc điểm danh hợp lệ là căn cứ tính điểm chuyên cần.
 
-### Tra cứu nhanh — các mốc giờ
+### Các mốc giờ
 
 | Mốc giờ | Khung thời gian | Ghi chú |
 |---|---|---|
@@ -34,7 +34,7 @@ Quy định về **giờ làm việc, khung giờ điểm danh trên portal, đ�
 - **Check-out:** 16:00 – 17:00
 
 {{% notice warning %}}
-**Trọng tâm:** Chỉ được công nhận điểm danh thành công khi hoàn thành **CẢ check-in và check-out** đúng khung giờ. Thiếu một trong hai lần, buổi đó **không được tính** là buổi thực tập hợp lệ.
+Chỉ được công nhận điểm danh thành công khi hoàn thành **CẢ check-in và check-out** đúng khung giờ. Thiếu một trong hai lần, buổi đó **không được tính** là buổi thực tập hợp lệ.
 {{% /notice %}}
 
 > Check-in trễ và mức trừ điểm tương ứng: xem **[4. Xử lý vi phạm](../../4-violations/)**.

@@ -15,7 +15,7 @@ Chuẩn mực về **trang phục** và **tác phong làm việc** khi có mặt
 | Áo đồng phục FCAJ | Khuyến khích (nếu đã có) |
 | Quần dài | **Bắt buộc** |
 | Giày kín mũi và gót | **Bắt buộc** |
-| Dép (lê, kẹp, sandal hở) | **Cấm** |
+| Dép (lê, kẹp, sandal hở, crocs) | **Cấm** |
 | Đeo thẻ sinh viên | Bắt buộc (khi chưa có đồng phục) |
 
 ---
@@ -35,7 +35,7 @@ Chuẩn mực về **trang phục** và **tác phong làm việc** khi có mặt
 - **Đeo thẻ sinh viên** trong suốt quá trình học tập và làm việc tại văn phòng.
 
 {{% notice warning %}}
-**Trọng tâm về giày dép:** Bắt buộc mang **giày kín mũi và gót**. **TUYỆT ĐỐI KHÔNG mang dép** (dép lê, dép kẹp, sandal hở mũi/hở gót) khi đến văn phòng.
+Bắt buộc mang **giày kín mũi và gót**. **TUYỆT ĐỐI KHÔNG mang dép** (dép lê, dép kẹp, sandal hở mũi/hở gót, crocs) khi đến văn phòng.
 {{% /notice %}}
 
 ### 2. Tác phong làm việc

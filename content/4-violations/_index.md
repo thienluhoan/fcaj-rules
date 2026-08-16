@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-Trang này tổng hợp **mức trừ điểm theo từng loại vi phạm** và **cơ cấu điểm đánh giá cuối kỳ**. Đây là căn cứ áp dụng thống nhất cho tất cả các nhóm nội quy ở phần 1.
+**Mức trừ điểm theo từng loại vi phạm** và **cơ cấu điểm đánh giá cuối kỳ**. Đây là căn cứ áp dụng thống nhất cho tất cả các nhóm nội quy ở phần 1.
 
 ### 1. Cách tính điểm trừ
 
@@ -20,7 +20,6 @@ Trang này tổng hợp **mức trừ điểm theo từng loại vi phạm** và
 | Vi phạm ăn uống / sử dụng đồ dùng | **0.5 điểm**/lần | |
 
 {{% notice warning %}}
-**Trọng tâm:**
 - **Check-in trễ = đi trễ.** Trễ **quá 30 phút** thì **xem như vắng** buổi hôm đó.
 - **Tự ý bỏ về giữa chừng** (kể cả nghỉ trưa xong về luôn) bị **trừ 2 điểm trên tổng điểm** cho mỗi lần vi phạm.
 {{% /notice %}}

@@ -13,8 +13,7 @@ Quy định về **khu vực ăn uống**, việc **ăn trưa ngoài hành lang*
 | Nội dung | Quy định |
 |---|---|
 | Ăn tại khu làm việc chính | **Không** |
-| Nơi được ăn uống | Pantry / khu vực chỉ định |
-| Ăn trưa ngoài hành lang | **Chỉ 12:00 – 13:30**, chỉ khi mang đồ ăn theo |
+| Ăn ngoài hành lang | **Chỉ 12:00 – 13:30** |
 | Nước mang vào | **Chỉ nước lọc** |
 | Nước có màu (cà phê, nước ngọt…) | **Cấm mang vào** khu làm việc |
 | Chi phí vệ sinh thảm | **3 triệu/m²** |
@@ -25,18 +24,12 @@ Quy định về **khu vực ăn uống**, việc **ăn trưa ngoài hành lang*
 
 - **Không ăn uống** tại khu vực làm việc chính.
 - Chỉ được ăn uống tại **pantry** hoặc **khu vực được chỉ định**.
-- **Vệ sinh sạch sẽ** sau khi sử dụng khu vực ăn uống chung.
-
-### 2. Ăn trưa tại khu vực hành lang
-
-{{% notice info %}}
-**Trọng tâm:** Việc ngồi ăn ngoài hành lang **chỉ áp dụng trong giờ nghỉ trưa (12:00 – 13:30)** và **chỉ cho việc ăn trưa** đối với các bạn **mang theo đồ ăn**.
+- Việc ngồi ăn ngoài hành lang **chỉ áp dụng trong giờ nghỉ trưa (12:00 – 13:30)** và **chỉ cho việc ăn trưa** đối với các bạn **mang theo đồ ăn**.
 {{% /notice %}}
-
 - **Ăn xong phải dọn dẹp sạch sẽ** và **vào lại văn phòng ngay**.
-- **Không ngồi lại** ở hành lang sau khi ăn xong và **không đi lung tung** sang khu vực khác.
+- **Không ngồi lại** ở hành lang sau khi ăn xong và **không tự ý di chuyển** sang khu vực khác.
 
-### 3. Sử dụng đồ dùng văn phòng (Tầng 26)
+### 2. Sử dụng đồ dùng văn phòng (Tầng 26)
 
 **KHÔNG ĐƯỢC PHÉP** sử dụng các đồ dùng ngoài **pantry** của tầng 26, bao gồm:
 
@@ -48,7 +41,7 @@ Quy định về **khu vực ăn uống**, việc **ăn trưa ngoài hành lang*
 
 > Nước lọc: các bạn **vui lòng tự chuẩn bị** mang từ ngoài vào.
 
-### 4. Các quy định khác
+### 3. Các quy định khác
 
 - Khi lên văn phòng, nên **mang nước lọc từ ngoài vào** để uống.
 - **Tuyệt đối không mang cà phê hoặc nước có màu** vào khu làm việc, vì sàn thảm khó vệ sinh và chi phí rất cao.

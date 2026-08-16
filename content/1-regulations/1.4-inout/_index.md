@@ -13,7 +13,7 @@ Quy định về **lối di chuyển ra/vào**, sử dụng cửa và **bảo qu
 | Tình huống | Lối đi | Trạng thái cửa |
 |---|---|---|
 | Vào đầu buổi (check-in bảo vệ) | **Cửa chính** (qua lễ tân), 1 lần | — |
-| Ăn trưa, đi WC | **Cửa sau** + thẻ từ | **Luôn đóng** |
+| Ăn trưa, đi WC | **Cửa sau** | **Luôn đóng** |
 | Cửa sau (Hall Q) | Thẻ trên ghế cạnh cửa / nhờ người mở | **Luôn đóng** |
 
 ---
@@ -26,7 +26,7 @@ Quy định về **lối di chuyển ra/vào**, sử dụng cửa và **bảo qu
 - **Hạn chế di chuyển** trong/giữa các khu vực làm việc gây mất trật tự.
 
 {{% notice warning %}}
-**Trọng tâm — Cửa sau (Hall Q):** Cửa sau **luôn phải ở trạng thái đóng**. Khi cần ra/vào:
+Cửa sau **luôn phải ở trạng thái đóng**. Khi cần ra/vào:
 - **Lấy thẻ để sẵn trên ghế cạnh cửa** để mở, hoặc **nhờ người bên trong mở cửa**.
 - Sau khi ra/vào: **đặt lại thẻ đúng vị trí** và **đảm bảo cửa đã đóng hoàn toàn**.
 {{% /notice %}}
