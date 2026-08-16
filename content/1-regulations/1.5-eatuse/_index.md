@@ -25,7 +25,6 @@ Quy định về **khu vực ăn uống**, việc **ăn trưa ngoài hành lang*
 - **Không ăn uống** tại khu vực làm việc chính.
 - Chỉ được ăn uống tại **pantry** hoặc **khu vực được chỉ định**.
 - Việc ngồi ăn ngoài hành lang **chỉ áp dụng trong giờ nghỉ trưa (12:00 – 13:30)** và **chỉ cho việc ăn trưa** đối với các bạn **mang theo đồ ăn**.
-{{% /notice %}}
 - **Ăn xong phải dọn dẹp sạch sẽ** và **vào lại văn phòng ngay**.
 - **Không ngồi lại** ở hành lang sau khi ăn xong và **không tự ý di chuyển** sang khu vực khác.
 
