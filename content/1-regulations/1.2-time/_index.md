@@ -41,7 +41,7 @@ Chỉ được công nhận điểm danh thành công khi hoàn thành **CẢ ch
 
 ### 3. Đăng ký lên văn phòng
 
-- Đăng ký lịch lên văn phòng **trên portal** trong khung **16:00 – 17:00 mỗi ngày** (cho các buổi kế tiếp).
+- Đăng ký lịch lên văn phòng **trên portal** trong khung **16:00 – 17:00 chủ nhật đến thứ 5** (cho các buổi kế tiếp).
 - Quy định hủy đăng ký và xử lý vắng mặt: xem **[1.1. Chuyên cần & Điểm danh](../1.1-diligence/)**.
 
 ### 4. Nghỉ trưa

@@ -33,3 +33,4 @@ III. [Hướng dẫn project](3-project/)
 
 IV. [Xử lý vi phạm](4-violations/)
 
+V. [Tiêu chí chấm Workshop](5-scoring/)

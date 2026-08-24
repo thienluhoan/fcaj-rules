@@ -12,7 +12,7 @@
 
     <link rel="icon" href="../images/favicon.png" type="image/png">
 
-    <title>Xử lý vi phạm :: Báo cáo thực tập</title>
+    <title>Tiêu chí chấm Workshop :: Báo cáo thực tập</title>
 
     
     <link href="../css/nucleus.css?1787566261" rel="stylesheet">
@@ -40,7 +40,7 @@
     
 
   </head>
-  <body class="" data-url="../4-violations/">
+  <body class="" data-url="../5-scoring/">
     <nav
   id="sidebar"
   class="showVisitedLinks"
@@ -353,7 +353,7 @@
   title="Xử lý vi phạm"
   class="dd-item 
         
-        active
+        
         
         "
 >
@@ -370,7 +370,7 @@
   title="Tiêu chí chấm Workshop"
   class="dd-item 
         
-        
+        active
         
         "
 >
@@ -412,7 +412,7 @@
                          
                 <option
                   id="vi"
-                  value="http://localhost:1313/4-violations/"
+                  value="http://localhost:1313/5-scoring/"
                   selected
                 >
                   
@@ -523,7 +523,7 @@
             
           
           
-            <a href='../'>Nội quy - Quy định</a> > Xử lý vi phạm
+            <a href='../'>Nội quy - Quy định</a> > Tiêu chí chấm Workshop
           
         
           
@@ -537,8 +537,10 @@
   <ul>
     <li>
       <ul>
-        <li><a href="#1-cách-tính-điểm-trừ">1. Cách tính điểm trừ</a></li>
-        <li><a href="#2-tiêu-chí-đánh-giá-cuối-kỳ">2. Tiêu chí đánh giá cuối kỳ</a></li>
+        <li><a href="#1-barem-tổng-quan">1. Barem tổng quan</a></li>
+        <li><a href="#2-checklist-chấm-điểm">2. Checklist chấm điểm</a></li>
+        <li><a href="#3-bảng-tiêu-chí-trừ-điểm--mất-điểm">3. Bảng tiêu chí trừ điểm / mất điểm</a></li>
+        <li><a href="#4-bảng-tổng-kết">4. Bảng tổng kết</a></li>
       </ul>
     </li>
   </ul>
@@ -557,7 +559,7 @@
           
             <h1>
               
-              Xử lý vi phạm
+              Tiêu chí chấm Workshop
             </h1>
           
 
@@ -565,95 +567,47 @@
 
 
 
-	<p><strong>Mức trừ điểm theo từng loại vi phạm</strong> và <strong>cơ cấu điểm đánh giá cuối kỳ</strong>. Đây là căn cứ áp dụng thống nhất cho tất cả các nhóm nội quy ở phần 1.</p>
-<h3 id="1-cách-tính-điểm-trừ">1. Cách tính điểm trừ</h3>
+	<p>Tài liệu này mô tả <strong>barem tổng quan</strong>, <strong>checklist chấm điểm chi tiết</strong> và <strong>bảng tiêu chí trừ điểm / mất điểm</strong> áp dụng cho sinh viên thực tập tham gia chương trình First Cloud AI Journey (FCAJ). Đây là căn cứ chính thức để đánh giá toàn diện kết quả thực tập của sinh viên.</p>
+<hr>
+<h3 id="1-barem-tổng-quan">1. Barem tổng quan</h3>
 <table>
   <thead>
       <tr>
-          <th>Loại vi phạm</th>
-          <th>Mức trừ</th>
+          <th>Nhóm tiêu chí</th>
+          <th>Điểm tối đa</th>
           <th>Ghi chú</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td>Check-in trễ</td>
-          <td>Tính là <strong>đi trễ</strong></td>
-          <td>Trong khung nhưng trễ giờ</td>
-      </tr>
-      <tr>
-          <td>Check-in trễ <strong>quá 30 phút</strong></td>
-          <td><strong>0.1 điểm</strong>/lần</td>
-          <td><strong>Xem như vắng</strong> buổi đó</td>
-      </tr>
-      <tr>
-          <td><strong>Tự ý bỏ về giữa chừng / nghỉ trưa xong về luôn</strong></td>
-          <td><strong>2 điểm</strong>/lần</td>
-          <td>Trừ trên <strong>tổng điểm</strong></td>
-      </tr>
-      <tr>
-          <td>Vi phạm trang phục</td>
-          <td><strong>0.5 điểm</strong>/lần</td>
-          <td>Trừ điểm tác phong</td>
-      </tr>
-      <tr>
-          <td>Vi phạm di chuyển trong văn phòng</td>
-          <td><strong>0.5 điểm</strong>/lần</td>
+          <td>Worklog / Blog</td>
+          <td><strong>1.0</strong></td>
           <td></td>
       </tr>
       <tr>
-          <td>Vi phạm ăn uống / sử dụng đồ dùng</td>
-          <td><strong>0.5 điểm</strong>/lần</td>
+          <td>Proposal / Workshop</td>
+          <td><strong>5.0</strong></td>
+          <td>Architecture chiếm 4.0</td>
+      </tr>
+      <tr>
+          <td>Thái độ / tác phong</td>
+          <td><strong>2.0</strong></td>
           <td></td>
       </tr>
-  </tbody>
-</table>
-
-<div
-  class="notices warning"
-  
->
-  <ul>
-<li><strong>Check-in trễ = đi trễ.</strong> Trễ <strong>quá 30 phút</strong> thì <strong>xem như vắng</strong> buổi hôm đó.</li>
-<li><strong>Tự ý bỏ về giữa chừng</strong> (kể cả nghỉ trưa xong về luôn) bị <strong>trừ 2 điểm trên tổng điểm</strong> cho mỗi lần vi phạm.</li>
-</ul>
-
-</div>
-
-<blockquote>
-<p>Quy định gốc của từng hành vi: <a href="../1-regulations/1.1-diligence/">1.1. Chuyên cần</a> · <a href="../1-regulations/1.2-time/">1.2. Thời gian</a> · <a href="../1-regulations/1.3-dress-code/">1.3. Trang phục &amp; Tác phong</a> · <a href="../1-regulations/1.4-inout/">1.4. Ra vào văn phòng</a> · <a href="../1-regulations/1.5-eatuse/">1.5. Ăn uống</a>.</p></blockquote>
-<h3 id="2-tiêu-chí-đánh-giá-cuối-kỳ">2. Tiêu chí đánh giá cuối kỳ</h3>
-<table>
-  <thead>
       <tr>
-          <th>Hạng mục</th>
-          <th>Điểm</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>Điểm chuyên cần</td>
-          <td><strong>1 điểm</strong> (0.1 điểm/buổi)</td>
+          <td>Chuyên cần</td>
+          <td><strong>1.5</strong></td>
+          <td></td>
       </tr>
       <tr>
-          <td>Điểm thái độ</td>
-          <td><strong>1 điểm</strong></td>
+          <td>Bonus</td>
+          <td><strong>0.5</strong></td>
+          <td>Chỉ cộng khi đủ điều kiện</td>
       </tr>
       <tr>
-          <td>Điểm tác phong</td>
-          <td><strong>1 điểm</strong></td>
-      </tr>
-      <tr>
-          <td>Điểm tham dự event</td>
-          <td><strong>1 điểm</strong></td>
-      </tr>
-      <tr>
-          <td>Điểm dự án thực tập</td>
-          <td><strong>6 điểm</strong></td>
-      </tr>
-      <tr>
-          <td><strong>Tổng</strong></td>
-          <td><strong>10 điểm</strong></td>
+          <td><strong>TỔNG</strong></td>
+          <td><strong>10.0</strong></td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -666,6 +620,596 @@
 
 </div>
 
+<hr>
+<h3 id="2-checklist-chấm-điểm">2. Checklist chấm điểm</h3>
+<h4 id="21-worklog--10-điểm">2.1. Worklog – 1.0 điểm</h4>
+<h5 id="blog--daily-worklog-05-điểm">Blog &amp; Daily Worklog (0.5 điểm)</h5>
+<table>
+  <tr>
+    <th>Checklist</th>
+    <th>Cách chấm</th>
+    <th>Tối đa</th>
+  </tr>
+  <tr>
+    <td>[ ] Có Blog và có Daily Worklog</td>
+    <td>Thiếu 1 bài Blog: <strong>-0.2đ</strong></td>
+    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>0.5</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Có ít nhất 3 bài Blog</td>
+    <td>Blog tự viết vẫn được tính</td>
+  </tr>
+  <tr>
+    <td>[ ] Daily Worklog có ghi nhận công việc/học tập</td>
+    <td></td>
+  </tr>
+</table>
+<h5 id="template--nội-dung-05-điểm">Template &amp; Nội dung (0.5 điểm)</h5>
+<table>
+  <tr>
+    <th>Checklist</th>
+    <th>Cách chấm</th>
+    <th>Tối đa</th>
+  </tr>
+  <tr>
+    <td>[ ] Template/format đúng</td>
+    <td>Template + format: <strong>0.2đ</strong></td>
+    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>0.5</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Nội dung rõ ràng, thể hiện đã học/làm gì</td>
+    <td>Nội dung rõ ràng + reference: <strong>0.3đ</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Có reference khi cần</td>
+    <td></td>
+  </tr>
+</table>
+
+<div
+  class="notices warning"
+  
+>
+  <p>Nếu <strong>Blog</strong> HOẶC <strong>Daily Worklog</strong> không có 1 trong 2 thì mục này = <strong>0 điểm</strong>.</p>
+
+</div>
+
+<hr>
+<h4 id="22-workshop--50-điểm">2.2. Workshop – 5.0 điểm</h4>
+
+<div
+  class="notices warning"
+  
+>
+  <p><strong>QUY TẮC KHÓA WORKSHOP:</strong> Không có Architecture <strong>HOẶC</strong> không trình bày Workshop/Proposal thì điểm Workshop = <strong>0</strong> (1 trong 2 không có).</p>
+
+</div>
+
+<h5 id="architecture--production-35-điểm">Architecture / Production (3.5 điểm)</h5>
+<p><strong>Tiêu chuẩn AWS (0.5 điểm)</strong></p>
+<table>
+  <tr>
+    <th>Checklist</th>
+    <th>Cách chấm</th>
+    <th>Tối đa</th>
+  </tr>
+  <tr>
+    <td>[ ] Đúng AWS service/icon/name</td>
+    <td>Chấm lỗi icon, tên service, luồng và cách dùng service</td>
+    <td rowspan="4" style="vertical-align: middle; text-align: left;"><strong>0.5</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Service dùng đúng mục đích</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[ ] Luồng/kết nối hợp lý</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[ ] Boundary/khung thể hiện đúng</td>
+    <td></td>
+  </tr>
+</table>
+<p><strong>Thẩm mỹ diagram (0.2 điểm)</strong></p>
+<table>
+  <tr>
+    <th>Checklist</th>
+    <th>Tối đa</th>
+  </tr>
+  <tr>
+    <td>[ ] Ảnh rõ nét</td>
+    <td rowspan="4" style="vertical-align: middle; text-align: left;"><strong>0.2</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Không chồng chéo</td>
+  </tr>
+  <tr>
+    <td>[ ] Bố cục cân đối</td>
+  </tr>
+  <tr>
+    <td>[ ] Luồng dễ theo dõi</td>
+  </tr>
+</table>
+<p><strong>AWS Well-Architected Framework (3.0 điểm)</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Pillar</th>
+          <th>Cách chấm</th>
+          <th>Tối đa</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>[ ] Operational Excellence</td>
+          <td>Đánh giá theo AWS Well-Architected, phù hợp scope project</td>
+          <td><strong>0.5</strong></td>
+      </tr>
+      <tr>
+          <td>[ ] Security</td>
+          <td>Đánh giá theo AWS Well-Architected, <strong>chấm gắt</strong> các vấn đề security</td>
+          <td><strong>0.5</strong></td>
+      </tr>
+      <tr>
+          <td>[ ] Reliability</td>
+          <td>Đánh giá failure handling, availability, recovery phù hợp project</td>
+          <td><strong>0.5</strong></td>
+      </tr>
+      <tr>
+          <td>[ ] Performance Efficiency</td>
+          <td>Đánh giá lựa chọn service/tài nguyên và khả năng scale</td>
+          <td><strong>0.5</strong></td>
+      </tr>
+      <tr>
+          <td>[ ] Cost Optimization</td>
+          <td>Đánh giá cost-awareness và tối ưu chi phí</td>
+          <td><strong>0.5</strong></td>
+      </tr>
+      <tr>
+          <td>[ ] Sustainability</td>
+          <td>Đánh giá sử dụng tài nguyên hợp lý, tránh over-provisioning</td>
+          <td><strong>0</strong> <em>(không áp dụng)</em></td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Điểm tự vẽ / tự thiết kế (0.3 điểm)</strong></p>
+<table>
+  <tr>
+    <th>Checklist</th>
+    <th>Tối đa</th>
+  </tr>
+  <tr>
+    <td>[ ] Tự vẽ / tự arrange Architecture</td>
+    <td rowspan="2" style="vertical-align: middle; text-align: left;"><strong>0.3</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Giải thích được diagram của mình</td>
+  </tr>
+</table>
+
+<div
+  class="notices warning"
+  
+>
+  <p><strong>Quy tắc về GenAI trong Architecture:</strong></p>
+<ul>
+<li>Architecture <strong>hoàn toàn do AI tạo</strong> = <strong>0 điểm</strong>.</li>
+<li>Có dùng AI và đã chỉnh nhưng <strong>vẫn còn lỗi rõ ràng</strong> (sai icon, sai tên service, chồng chéo…): <strong>trừ 1đ</strong> (0.5 Tiêu chuẩn AWS + 0.3 Tự vẽ + 0.2 Thẩm mỹ).</li>
+<li>Vẽ <strong>không đúng tiêu chuẩn AWS</strong> nhưng tự tay vẽ = <strong>0.5đ</strong> (công vẽ).</li>
+</ul>
+
+</div>
+
+<blockquote>
+<p>Ở mục Workshop, sinh viên <strong>phải thể hiện được</strong> như Architecture đã vẽ.</p></blockquote>
+<h5 id="demo-05-điểm">Demo (0.5 điểm)</h5>
+<table>
+  <thead>
+      <tr>
+          <th>Checklist</th>
+          <th>Tối đa</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>[ ] Có demo sản phẩm bằng live demo, video hoặc link production</td>
+          <td><strong>0.5</strong></td>
+      </tr>
+  </tbody>
+</table>
+<h5 id="trình-bày-10-điểm">Trình bày (1.0 điểm)</h5>
+<table>
+  <tr>
+    <th>Checklist</th>
+    <th>Cách chấm</th>
+    <th>Tối đa</th>
+  </tr>
+  <tr>
+    <td>[ ] Trình bày đầy đủ Proposal</td>
+    <td>Chấm 0–1 tùy độ chi tiết</td>
+    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>1.0</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Trình bày đầy đủ Workshop</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>[ ] Có phần COST</td>
+    <td><strong>Thiếu COST = 0 điểm</strong> mục này</td>
+  </tr>
+</table>
+<hr>
+<h4 id="23-thái-độ--tác-phong--20-điểm">2.3. Thái độ / tác phong – 2.0 điểm</h4>
+<h5 id="thái-độ-10-điểm">Thái độ (1.0 điểm)</h5>
+<table>
+  <tr>
+    <th>Checklist</th>
+    <th>Tối đa</th>
+  </tr>
+  <tr>
+    <td>[ ] Tinh thần học hỏi</td>
+    <td rowspan="4" style="vertical-align: middle; text-align: left;"><strong>1.0</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Chủ động</td>
+  </tr>
+  <tr>
+    <td>[ ] Lịch sự, lễ phép</td>
+  </tr>
+  <tr>
+    <td>[ ] Trung thực</td>
+  </tr>
+</table>
+
+<div
+  class="notices warning"
+  
+>
+  <ul>
+<li>Tốt đầy đủ: <strong>1.0 điểm</strong>.</li>
+<li><strong>Gian dối / không trung thực = 0 điểm</strong> mục Thái độ.</li>
+</ul>
+
+</div>
+
+<h5 id="tuân-thủ-nội-quy-10-điểm">Tuân thủ nội quy (1.0 điểm)</h5>
+<table>
+  <tr>
+    <th>Checklist</th>
+    <th>Tối đa</th>
+  </tr>
+  <tr>
+    <td>[ ] Không vắng trái quy định</td>
+    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>1.0</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Không tự ý bỏ về</td>
+  </tr>
+  <tr>
+    <td>[ ] Không làm việc riêng / đi trễ / vi phạm trang phục – nội quy</td>
+  </tr>
+</table>
+
+<div
+  class="notices warning"
+  
+>
+  <ul>
+<li>Bắt đầu từ <strong>1.0</strong> và áp dụng <strong>bảng trừ điểm</strong>.</li>
+<li>Vi phạm nghiêm trọng có thể bị <strong>trừ thêm sang phần Thái độ</strong>.</li>
+<li><strong>Hút thuốc</strong> tại văn phòng: <strong>0 điểm</strong> cả Thái độ và Tuân thủ nội quy.</li>
+</ul>
+
+</div>
+
+<blockquote>
+<p>Chi tiết từng vi phạm và mức trừ: <a href="../4-violations/">4. Xử lý vi phạm</a>.</p></blockquote>
+<hr>
+<h4 id="24-chuyên-cần--15-điểm">2.4. Chuyên cần – 1.5 điểm</h4>
+<h5 id="office-05-điểm">Office (0.5 điểm)</h5>
+<table>
+  <thead>
+      <tr>
+          <th>Checklist</th>
+          <th>Cách chấm</th>
+          <th>Tối đa</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>[ ] Đủ 10 buổi office</td>
+          <td>Hoặc theo quy định booking: từ 20 bookings trở lên và có ít nhất 6 slots</td>
+          <td><strong>0.5</strong></td>
+      </tr>
+  </tbody>
+</table>
+<blockquote>
+<p>Thiếu 1 buổi: <strong>-0.1đ/buổi</strong> đến hết 0.5 điểm.</p></blockquote>
+<h5 id="event-10-điểm">Event (1.0 điểm)</h5>
+<table>
+  <tr>
+    <th>Checklist</th>
+    <th>Cách chấm</th>
+    <th>Tối đa</th>
+  </tr>
+  <tr>
+    <td>[ ] Event 1 – có ảnh hợp lệ</td>
+    <td></td>
+    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>1.0</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Event 2 – có ảnh hợp lệ</td>
+    <td>Đủ 3 event có ảnh legit: <strong>1.0 điểm</strong></td>
+  </tr>
+  <tr>
+    <td>[ ] Event 3 – có ảnh hợp lệ</td>
+    <td></td>
+  </tr>
+</table>
+
+<div
+  class="notices info"
+  
+>
+  <ul>
+<li>Thiếu 1 event: <strong>-0.3đ</strong>.</li>
+<li>Event thiếu ảnh / ảnh không rõ: event đó chỉ <strong>+0.2đ</strong>.</li>
+</ul>
+
+</div>
+
+<hr>
+<h4 id="25-bonus--05-điểm">2.5. Bonus – 0.5 điểm</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Điều kiện bắt buộc</th>
+          <th>Yêu cầu</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Nhóm 3 – Thái độ / tác phong</td>
+          <td>Đạt full <strong>2.0/2.0</strong></td>
+      </tr>
+      <tr>
+          <td>Nhóm 4 – Chuyên cần</td>
+          <td>Đạt full <strong>1.5/1.5</strong></td>
+      </tr>
+      <tr>
+          <td>Hoàn thành Workshop/project</td>
+          <td>Có Architecture + Demo + Trình bày</td>
+      </tr>
+  </tbody>
+</table>
+
+<div
+  class="notices tip"
+  
+>
+  <p><strong>ĐỦ CẢ 3 ĐIỀU KIỆN</strong> → Bonus <strong>+0.5 điểm</strong>.</p>
+
+</div>
+
+<hr>
+<h3 id="3-bảng-tiêu-chí-trừ-điểm--mất-điểm">3. Bảng tiêu chí trừ điểm / mất điểm</h3>
+<p>Bảng dưới đây tổng hợp <strong>toàn bộ các trường hợp bị trừ hoặc mất điểm</strong>, áp dụng thống nhất cho tất cả các nhóm tiêu chí.</p>
+<h4 id="31-worklog">3.1. Worklog</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Trường hợp</th>
+          <th>Mức trừ / giới hạn</th>
+          <th>Ghi chú</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Thiếu 1 bài Blog</td>
+          <td><strong>-0.1đ / bài</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Không có Blog HOẶC không có Daily Worklog</td>
+          <td><strong>Mục Blog/Daily Worklog = 0</strong></td>
+          <td>Một trong hai không đạt thì mất điểm mục này</td>
+      </tr>
+      <tr>
+          <td>Template/format không đạt</td>
+          <td>Mất tối đa <strong>0.2đ</strong></td>
+          <td>Không cộng phần Template/format</td>
+      </tr>
+      <tr>
+          <td>Nội dung không rõ đã học/làm gì, thiếu reference</td>
+          <td>Mất tối đa <strong>0.3đ</strong></td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<h4 id="32-architecture">3.2. Architecture</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Trường hợp</th>
+          <th>Mức trừ / giới hạn</th>
+          <th>Ghi chú</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Architecture hoàn toàn do GenAI tạo</td>
+          <td><strong>Architecture = 0</strong></td>
+          <td>Không chấm</td>
+      </tr>
+      <tr>
+          <td>Có dùng AI, đã chỉnh nhưng còn lỗi rõ</td>
+          <td><strong>-1đ</strong></td>
+          <td>Mất 0.5 Tiêu chuẩn AWS + 0.3 Tự vẽ + 0.2 Thẩm mỹ</td>
+      </tr>
+      <tr>
+          <td>Sai AWS service/icon/name/flow hoặc dùng service sai mục đích</td>
+          <td>Trừ trong <strong>0.5đ</strong> Tiêu chuẩn AWS</td>
+          <td>Mức trừ theo mức độ sai</td>
+      </tr>
+      <tr>
+          <td>Diagram mờ, chồng chéo, bố cục/flow khó đọc</td>
+          <td>Trừ trong <strong>0.2đ</strong> Thẩm mỹ</td>
+          <td>Mức trừ theo mức độ</td>
+      </tr>
+      <tr>
+          <td>Không đáp ứng 1 pillar Well-Architected</td>
+          <td><strong>Trừ 0–0.5 / pillar</strong></td>
+          <td>6 pillars, tổng tối đa 3.0</td>
+      </tr>
+  </tbody>
+</table>
+<h4 id="33-production--workshop">3.3. Production / Workshop</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Trường hợp</th>
+          <th>Mức trừ / giới hạn</th>
+          <th>Ghi chú</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Không thể hiện được như Architecture đã vẽ</td>
+          <td><strong>Trừ ½ số điểm</strong> Architecture</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Không vẽ Architecture HOẶC không trình bày Workshop/Proposal</td>
+          <td><strong>Workshop = 0</strong></td>
+          <td>Quy tắc khóa Workshop</td>
+      </tr>
+      <tr>
+          <td>Không demo và không có sản phẩm</td>
+          <td><strong>Demo = 0</strong></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Thiếu phần COST</td>
+          <td><strong>Trình bày = 0</strong></td>
+          <td>Điều kiện bắt buộc của mục Trình bày</td>
+      </tr>
+      <tr>
+          <td>Trình bày quá ngắn / thiếu chi tiết</td>
+          <td>Chấm trong khoảng <strong>0–1đ</strong></td>
+          <td>Tùy mức độ đầy đủ COST, Proposal và Workshop</td>
+      </tr>
+  </tbody>
+</table>
+<h4 id="34-thái-độ--tác-phong">3.4. Thái độ / tác phong</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Trường hợp</th>
+          <th>Mức trừ / giới hạn</th>
+          <th>Ghi chú</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Gian dối / không trung thực</td>
+          <td><strong>Thái độ = 0đ</strong></td>
+          <td>Ví dụ: cố tình khai/đọc sai thông tin, chối hành vi rõ ràng</td>
+      </tr>
+      <tr>
+          <td>Vắng</td>
+          <td><strong>-0.3đ / buổi</strong></td>
+          <td>Trừ trong mục Tuân thủ nội quy 1.0</td>
+      </tr>
+      <tr>
+          <td>Tự ý bỏ về</td>
+          <td><strong>Tuân thủ nội quy = 0đ</strong></td>
+          <td>Áp dụng ngay cho mục này</td>
+      </tr>
+      <tr>
+          <td>Vi phạm nội quy: làm việc riêng, đi trễ, mang dép…</td>
+          <td><strong>-0.2đ / lần</strong></td>
+          <td>Tùy mức độ có thể trừ thêm sang Thái độ</td>
+      </tr>
+      <tr>
+          <td>Hút thuốc tại văn phòng</td>
+          <td><strong>0 điểm cả 2 mục</strong></td>
+          <td>Thái độ = 0/1 và Tuân thủ = 0/1</td>
+      </tr>
+  </tbody>
+</table>
+<h4 id="35-chuyên-cần">3.5. Chuyên cần</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Trường hợp</th>
+          <th>Mức trừ / giới hạn</th>
+          <th>Ghi chú</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Thiếu buổi office</td>
+          <td><strong>-0.1đ / buổi</strong></td>
+          <td>Trừ đến hết 0.5 điểm</td>
+      </tr>
+      <tr>
+          <td>Thiếu event</td>
+          <td><strong>-0.3đ / event</strong></td>
+          <td>So với yêu cầu đủ 3 event</td>
+      </tr>
+      <tr>
+          <td>Có tham gia nhưng thiếu ảnh / ảnh không rõ ràng</td>
+          <td>Event đó chỉ <strong>+0.2đ</strong></td>
+          <td>Ảnh phải đủ rõ và hợp lệ</td>
+      </tr>
+  </tbody>
+</table>
+<h4 id="36-bonus">3.6. Bonus</h4>
+<table>
+  <thead>
+      <tr>
+          <th>Trường hợp</th>
+          <th>Mức trừ / giới hạn</th>
+          <th>Ghi chú</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Không full Nhóm 3 hoặc Nhóm 4 hoặc chưa hoàn thành Workshop/project</td>
+          <td><strong>Bonus = 0</strong></td>
+          <td>Bonus chỉ cộng khi đủ đồng thời cả 3 điều kiện</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="4-bảng-tổng-kết">4. Bảng tổng kết</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Nhóm</th>
+          <th>Worklog</th>
+          <th>Workshop</th>
+          <th>Thái độ</th>
+          <th>Chuyên cần</th>
+          <th>Bonus</th>
+          <th>TỔNG</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Điểm tối đa</td>
+          <td>1.0</td>
+          <td>5.0</td>
+          <td>2.0</td>
+          <td>1.5</td>
+          <td>0.5</td>
+          <td>10</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<p><strong>Liên quan:</strong> <a href="../3-project/">3. Quy định về project</a> · <a href="../4-violations/">4. Xử lý vi phạm</a> · <a href="../1-regulations/1.1-diligence/">1.1. Chuyên cần</a></p>
 
 
 
@@ -953,7 +1497,6 @@
             
                 
                     
-                    
                 
                 
 
@@ -970,8 +1513,6 @@
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -993,10 +1534,10 @@
 	 
 	 
 		
-			<a class="nav nav-prev" href="../3-project/" title="Quy định về project"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="../4-violations/" title="Xử lý vi phạm"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="../5-scoring/" title="Tiêu chí chấm Workshop" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="../1-regulations/" title="Nội quy" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
