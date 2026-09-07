@@ -6,20 +6,20 @@ chapter: false
 pre: " <b> 5. </b> "
 ---
 
-Tài liệu này mô tả **barem tổng quan**, **checklist chấm điểm chi tiết** và **bảng tiêu chí trừ điểm / mất điểm** áp dụng cho sinh viên thực tập tham gia chương trình First Cloud AI Journey (FCAJ). Đây là căn cứ chính thức để đánh giá toàn diện kết quả thực tập của sinh viên.
+Tài liệu này mô tả **barem tổng quan** và **các quy tắc / lưu ý quan trọng** trong quá trình đánh giá kết quả thực tập dành cho sinh viên tham gia chương trình First Cloud AI Journey (FCAJ). Sinh viên cần nắm vững các tiêu chuẩn và các trường hợp bị điểm liệt / trừ điểm để hoàn thành tốt kỳ thực tập.
 
 ---
 
 ### 1. Barem tổng quan
 
-| Nhóm tiêu chí       | Điểm tối đa | Ghi chú                   |
-| ------------------- | ----------- | ------------------------- |
-| Worklog / Blog      | **1.0**     |                           |
-| Proposal / Workshop | **5.0**     | Architecture chiếm 4.0    |
-| Thái độ / tác phong | **2.0**     |                           |
-| Chuyên cần          | **1.5**     |                           |
-| Bonus               | **0.5**     | Chỉ cộng khi đủ điều kiện |
-| **TỔNG**            | **10.0**    |                           |
+| Nhóm tiêu chí       | Điểm tối đa | Ghi chú                      |
+| ------------------- | ----------- | ---------------------------- |
+| Worklog / Blog      | **1.0**     |                              |
+| Proposal / Workshop | **5.0**     | Architecture chiếm tỷ lệ cao |
+| Thái độ / tác phong | **2.0**     |                              |
+| Chuyên cần          | **1.5**     |                              |
+| Bonus               | **0.5**     | Chỉ cộng khi đủ điều kiện    |
+| **TỔNG**            | **10.0**    |                              |
 
 {{% notice info %}}
 Yêu cầu điểm tổng kết **tối thiểu 7.0/10** để được xét chứng nhận hoàn thành thực tập.
@@ -27,362 +27,99 @@ Yêu cầu điểm tổng kết **tối thiểu 7.0/10** để được xét ch�
 
 ---
 
-### 2. Checklist chấm điểm
+### 2. Các quy định & Lưu ý quan trọng theo từng nhóm tiêu chí
 
-#### 2.1. Worklog – 1.0 điểm
+#### 2.1. Worklog / Blog – 1.0 điểm
 
-##### Blog & Daily Worklog (0.5 điểm)
+Nhóm tiêu chí này đánh giá thói quen học tập, đúc kết kiến thức và tính kỷ luật của sinh viên thông qua việc viết Blog kỹ thuật và ghi nhận nhật ký làm việc (Daily Worklog).
 
-<table>
-  <tr>
-    <th>Checklist</th>
-    <th>Cách chấm</th>
-    <th>Tối đa</th>
-  </tr>
-  <tr>
-    <td>[ ] Có Blog và có Daily Worklog</td>
-    <td>Thiếu 1 bài Blog: <strong>-0.2đ</strong></td>
-    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>0.5</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Có ít nhất 3 bài Blog</td>
-    <td>Blog tự viết vẫn được tính</td>
-  </tr>
-  <tr>
-    <td>[ ] Daily Worklog có ghi nhận công việc/học tập</td>
-    <td></td>
-  </tr>
-</table>
-
-##### Template & Nội dung (0.5 điểm)
-
-<table>
-  <tr>
-    <th>Checklist</th>
-    <th>Cách chấm</th>
-    <th>Tối đa</th>
-  </tr>
-  <tr>
-    <td>[ ] Template/format đúng</td>
-    <td>Template + format: <strong>0.2đ</strong></td>
-    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>0.5</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Nội dung rõ ràng, thể hiện đã học/làm gì</td>
-    <td>Nội dung rõ ràng + reference: <strong>0.3đ</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Có reference khi cần</td>
-    <td></td>
-  </tr>
-</table>
+- **Blog kỹ thuật:** Yêu cầu tối thiểu **3 bài Blog** chất lượng chia sẻ về các chủ đề/công nghệ đã học hoặc nghiên cứu trong kỳ thực tập.
+- **Daily Worklog:** Ghi nhận đều đặn tiến độ hàng ngày, thể hiện rõ công việc và nội dung đã học/làm theo đúng template quy định, kèm trích dẫn tài liệu tham khảo (references).
 
 {{% notice warning %}}
-Nếu **Blog** HOẶC **Daily Worklog** không có 1 trong 2 thì mục này = **0 điểm**.
+**ĐIỀU KIỆN TIÊN QUYẾT:**
+- Bắt buộc phải có cả **Blog** VÀ **Daily Worklog**. Nếu thiếu 1 trong 2 nội dung này thì toàn bộ nhóm Worklog = **0 điểm**.
+- Không ghi nhận nhật ký, viết qua loa không đúng template hoặc thiếu bài viết kỹ thuật sẽ bị trừ điểm theo quy định.
 {{% /notice %}}
 
 ---
 
-#### 2.2. Workshop – 5.0 điểm
+#### 2.2. Proposal / Workshop – 5.0 điểm
+
+Đây là phần chiếm trọng số lớn nhất trong kỳ thực tập, đánh giá năng lực chuyên môn và giải pháp kỹ thuật của sinh viên. 
+
+Cấu phần gồm: Thiết kế kiến trúc (**Architecture**), Bản chạy thực tế (**Demo**) và **Trình bày giải pháp** (Proposal/Workshop).
 
 {{% notice warning %}}
-**QUY TẮC KHÓA WORKSHOP:** Không có Architecture **HOẶC** không trình bày Workshop/Proposal thì điểm Workshop = **0** (1 trong 2 không có).
+**QUY TẮC KHÓA WORKSHOP (ĐIỂM LIỆT):**
+- Không có Architecture **HOẶC** không trình bày Workshop/Proposal thì toàn bộ điểm Workshop = **0 điểm** (1 trong 2 không có).
 {{% /notice %}}
 
-##### Architecture / Production (3.5 điểm)
+**Các lưu ý quan trọng về chuyên môn:**
 
-**Tiêu chuẩn AWS (0.5 điểm)**
-
-<table>
-  <tr>
-    <th>Checklist</th>
-    <th>Cách chấm</th>
-    <th>Tối đa</th>
-  </tr>
-  <tr>
-    <td>[ ] Đúng AWS service/icon/name</td>
-    <td>Chấm lỗi icon, tên service, luồng và cách dùng service</td>
-    <td rowspan="4" style="vertical-align: middle; text-align: left;"><strong>0.5</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Service dùng đúng mục đích</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>[ ] Luồng/kết nối hợp lý</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>[ ] Boundary/khung thể hiện đúng</td>
-    <td></td>
-  </tr>
-</table>
-
-**Thẩm mỹ diagram (0.2 điểm)**
-
-<table>
-  <tr>
-    <th>Checklist</th>
-    <th>Tối đa</th>
-  </tr>
-  <tr>
-    <td>[ ] Ảnh rõ nét</td>
-    <td rowspan="4" style="vertical-align: middle; text-align: left;"><strong>0.2</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Không chồng chéo</td>
-  </tr>
-  <tr>
-    <td>[ ] Bố cục cân đối</td>
-  </tr>
-  <tr>
-    <td>[ ] Luồng dễ theo dõi</td>
-  </tr>
-</table>
-
-**AWS Well-Architected Framework (3.0 điểm)**
-
-| Pillar                     | Cách chấm                                                            | Tối đa                  |
-| -------------------------- | -------------------------------------------------------------------- | ----------------------- |
-| [ ] Operational Excellence | Đánh giá theo AWS Well-Architected, phù hợp scope project            | **0.5**                 |
-| [ ] Security               | Đánh giá theo AWS Well-Architected, **chấm gắt** các vấn đề security | **0.5**                 |
-| [ ] Reliability            | Đánh giá failure handling, availability, recovery phù hợp project    | **0.5**                 |
-| [ ] Performance Efficiency | Đánh giá lựa chọn service/tài nguyên và khả năng scale               | **0.5**                 |
-| [ ] Cost Optimization      | Đánh giá cost-awareness và tối ưu chi phí                            | **0.5**                 |
-| [ ] Sustainability         | Đánh giá sử dụng tài nguyên hợp lý, tránh over-provisioning          | **0** *(không áp dụng)* |
-
-**Điểm tự vẽ / tự thiết kế (0.3 điểm)**
-
-<table>
-  <tr>
-    <th>Checklist</th>
-    <th>Tối đa</th>
-  </tr>
-  <tr>
-    <td>[ ] Tự vẽ / tự arrange Architecture</td>
-    <td rowspan="2" style="vertical-align: middle; text-align: left;"><strong>0.3</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Giải thích được diagram của mình</td>
-  </tr>
-</table>
+- **Kiến trúc hệ thống (Architecture):**
+  - Phải tuân thủ chuẩn thiết kế của AWS (đúng icon, đúng tên dịch vụ, kết nối và luồng dữ liệu hợp lý).
+  - Áp dụng các nguyên tắc của **AWS Well-Architected Framework** (Security, Reliability, Performance Efficiency, Cost Optimization, Operational Excellence). Trong đó, khía cạnh **Security** luôn được đánh giá rất nghiêm ngặt.
+  - Sinh viên phải tự vẽ, tự thiết kế và giải thích cặn kẽ giải pháp của mình. Giải pháp thực tế (workshop) **phải thể hiện được đúng như những gì đã thiết kế trên Architecture**.
 
 {{% notice warning %}}
-**Quy tắc về GenAI trong Architecture:**
+**QUY TẮC VỀ GENAI TRONG ARCHITECTURE:**
 - Architecture **hoàn toàn do AI tạo** = **0 điểm**.
-- Có dùng AI và đã chỉnh nhưng **vẫn còn lỗi rõ ràng** (sai icon, sai tên service, chồng chéo…): **trừ 1đ** (0.5 Tiêu chuẩn AWS + 0.3 Tự vẽ + 0.2 Thẩm mỹ).
-- Vẽ **không đúng tiêu chuẩn AWS** nhưng tự tay vẽ = **0.5đ** (công vẽ).
+- Trường hợp có dùng AI hỗ trợ nhưng không chỉnh sửa kỹ lưỡng, để sót các lỗi cơ bản (sai icon, sai tên service, luồng vô lý, chồng chéo...) sẽ bị trừ điểm rất nặng.
+- Nếu vẽ không đúng chuẩn AWS nhưng là công sức tự tay thiết kế thì chỉ được ghi nhận điểm tối thiểu cho công vẽ.
 {{% /notice %}}
 
-> Ở mục Workshop, sinh viên **phải thể hiện được** như Architecture đã vẽ.
-
-##### Demo (0.5 điểm)
-
-| Checklist                                                       | Tối đa  |
-| --------------------------------------------------------------- | ------- |
-| [ ] Có demo sản phẩm bằng live demo, video hoặc link production | **0.5** |
-
-##### Trình bày (1.0 điểm)
-
-<table>
-  <tr>
-    <th>Checklist</th>
-    <th>Cách chấm</th>
-    <th>Tối đa</th>
-  </tr>
-  <tr>
-    <td>[ ] Trình bày đầy đủ Proposal</td>
-    <td>Chấm 0–1 tùy độ chi tiết</td>
-    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>1.0</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Trình bày đầy đủ Workshop</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>[ ] Có phần COST</td>
-    <td><strong>Thiếu COST = 0 điểm</strong> mục này</td>
-  </tr>
-</table>
+- **Demo sản phẩm:**
+  - Bắt buộc phải có sản phẩm chạy thực tế (Live demo, video minh chứng rõ ràng hoặc link production hoạt động). Không có demo/sản phẩm = **0 điểm Demo**.
+- **Trình bày (Proposal & Workshop):**
+  - Trình bày mạch lạc, rõ ràng, thể hiện đầy đủ bài toán và cách giải quyết.
+  - **Bắt buộc phải có phần dự toán và tối ưu chi phí (COST):** Báo cáo hoặc bài thuyết trình **thiếu phần COST = 0 điểm mục Trình bày**.
 
 ---
 
 #### 2.3. Thái độ / tác phong – 2.0 điểm
 
-##### Thái độ (1.0 điểm)
+Đánh giá tính chuyên nghiệp, văn hóa làm việc và sự tuân thủ kỷ luật của sinh viên trong môi trường doanh nghiệp.
 
-<table>
-  <tr>
-    <th>Checklist</th>
-    <th>Tối đa</th>
-  </tr>
-  <tr>
-    <td>[ ] Tinh thần học hỏi</td>
-    <td rowspan="4" style="vertical-align: middle; text-align: left;"><strong>1.0</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Chủ động</td>
-  </tr>
-  <tr>
-    <td>[ ] Lịch sự, lễ phép</td>
-  </tr>
-  <tr>
-    <td>[ ] Trung thực</td>
-  </tr>
-</table>
+- **Thái độ:** Tinh thần cầu thị, chủ động trong công việc, lịch sự, tôn trọng mọi người và đặc biệt là tính trung thực.
+- **Tuân thủ nội quy:** Chấp hành nghiêm chỉnh giờ giấc, văn hóa văn phòng, trang phục và các quy định của chương trình.
 
 {{% notice warning %}}
-- Tốt đầy đủ: **1.0 điểm**.
-- **Gian dối / không trung thực = 0 điểm** mục Thái độ.
+**CÁC LỖI VI PHẠM ĐẶC BIỆT NGHIÊM TRỌNG:**
+- **Gian dối / không trung thực:** Cố tình khai báo sai, gian lận thông tin hoặc chối bỏ vi phạm rõ ràng = **0 điểm mục Thái độ**.
+- **Hút thuốc tại văn phòng:** Nhận ngay **0 điểm cho cả 2 mục** (Thái độ = 0 và Tuân thủ nội quy = 0), đồng thời chịu hình thức kỷ luật.
+- **Tự ý bỏ về / vắng không phép:** Bị đánh giá **0 điểm mục Tuân thủ nội quy**.
+- Các vi phạm khác (đi trễ, làm việc riêng, vi phạm trang phục...) sẽ bị trừ điểm trực tiếp theo quy định tại [4. Xử lý vi phạm](../4-violations/).
 {{% /notice %}}
-
-##### Tuân thủ nội quy (1.0 điểm)
-
-<table>
-  <tr>
-    <th>Checklist</th>
-    <th>Tối đa</th>
-  </tr>
-  <tr>
-    <td>[ ] Không vắng trái quy định</td>
-    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>1.0</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Không tự ý bỏ về</td>
-  </tr>
-  <tr>
-    <td>[ ] Không làm việc riêng / đi trễ / vi phạm trang phục – nội quy</td>
-  </tr>
-</table>
-
-{{% notice warning %}}
-- Bắt đầu từ **1.0** và áp dụng **bảng trừ điểm**.
-- Vi phạm nghiêm trọng có thể bị **trừ thêm sang phần Thái độ**.
-- **Hút thuốc** tại văn phòng: **0 điểm** cả Thái độ và Tuân thủ nội quy.
-{{% /notice %}}
-
-> Chi tiết từng vi phạm và mức trừ: [4. Xử lý vi phạm](../4-violations/).
 
 ---
 
 #### 2.4. Chuyên cần – 1.5 điểm
 
-##### Office (0.5 điểm)
+Đánh giá sự hiện diện và mức độ tích cực tham gia các hoạt động thực tế của chương trình.
 
-| Checklist             | Cách chấm                                                                | Tối đa  |
-| --------------------- | ------------------------------------------------------------------------ | ------- |
-| [ ] Đủ 10 buổi office | Hoặc theo quy định booking: từ 20 bookings trở lên và có ít nhất 6 slots | **0.5** |
+- **Lên văn phòng (Office):** Đảm bảo đủ số buổi làm việc tại văn phòng theo quy định (tối thiểu 10 buổi hoặc số lượt booking hợp lệ). Thiếu buổi sẽ bị trừ điểm tương ứng.
+- **Tham gia sự kiện (Event):** Tham gia đủ tối thiểu **3 sự kiện** chuyên môn / cộng đồng theo thông báo của ban tổ chức.
 
-> Thiếu 1 buổi: **-0.1đ/buổi** đến hết 0.5 điểm.
-
-##### Event (1.0 điểm)
-
-<table>
-  <tr>
-    <th>Checklist</th>
-    <th>Cách chấm</th>
-    <th>Tối đa</th>
-  </tr>
-  <tr>
-    <td>[ ] Event 1 – có ảnh hợp lệ</td>
-    <td></td>
-    <td rowspan="3" style="vertical-align: middle; text-align: left;"><strong>1.0</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Event 2 – có ảnh hợp lệ</td>
-    <td>Đủ 3 event có ảnh legit: <strong>1.0 điểm</strong></td>
-  </tr>
-  <tr>
-    <td>[ ] Event 3 – có ảnh hợp lệ</td>
-    <td></td>
-  </tr>
-</table>
-
-{{% notice info %}}
-- Thiếu 1 event: **-0.3đ**.
-- Event thiếu ảnh / ảnh không rõ: event đó chỉ **+0.2đ**.
+{{% notice warning %}}
+**LƯU Ý VỀ MINH CHỨNG CHUYÊN CẦN:**
+- Khi tham gia các sự kiện (Event), sinh viên **bắt buộc phải chụp ảnh check-in rõ mặt, hợp lệ** và đính kèm vào báo cáo.
+- Sự kiện thiếu ảnh hoặc ảnh không rõ ràng/không hợp lệ sẽ không được tính đủ điểm. Thiếu event sẽ bị trừ điểm trực tiếp vào điểm chuyên cần.
 {{% /notice %}}
 
 ---
 
-#### 2.5. Bonus – 0.5 điểm
+#### 2.5. Điểm thưởng (Bonus – 0.5 điểm)
 
-| Điều kiện bắt buộc           | Yêu cầu                            |
-| ---------------------------- | ---------------------------------- |
-| Nhóm 3 – Thái độ / tác phong | Đạt full **2.0/2.0**               |
-| Nhóm 4 – Chuyên cần          | Đạt full **1.5/1.5**               |
-| Hoàn thành Workshop/project  | Có Architecture + Demo + Trình bày |
+Chỉ dành cho những sinh viên thể hiện sự xuất sắc và kỷ luật toàn diện trong suốt kỳ thực tập.
 
 {{% notice tip %}}
-**ĐỦ CẢ 3 ĐIỀU KIỆN** → Bonus **+0.5 điểm**.
+**ĐIỀU KIỆN ĐẠT ĐIỂM BONUS (+0.5 ĐIỂM):**
+Sinh viên chỉ được cộng điểm thưởng khi **thỏa mãn đồng thời cả 3 điều kiện**:
+1. Đạt điểm tối đa nhóm **Thái độ / tác phong (2.0/2.0)**.
+2. Đạt điểm tối đa nhóm **Chuyên cần (1.5/1.5)**.
+3. Hoàn thành đầy đủ và chất lượng **Workshop/Project** (đầy đủ Architecture, Demo hoạt động và Trình bày giải pháp).
 {{% /notice %}}
-
----
-
-### 3. Bảng tiêu chí trừ điểm / mất điểm
-
-Bảng dưới đây tổng hợp **toàn bộ các trường hợp bị trừ hoặc mất điểm**, áp dụng thống nhất cho tất cả các nhóm tiêu chí.
-
-#### 3.1. Worklog
-
-| Trường hợp                                       | Mức trừ / giới hạn             | Ghi chú                                      |
-| ------------------------------------------------ | ------------------------------ | -------------------------------------------- |
-| Thiếu 1 bài Blog                                 | **-0.1đ / bài**                |                                              |
-| Không có Blog HOẶC không có Daily Worklog        | **Mục Blog/Daily Worklog = 0** | Một trong hai không đạt thì mất điểm mục này |
-| Template/format không đạt                        | Mất tối đa **0.2đ**            | Không cộng phần Template/format              |
-| Nội dung không rõ đã học/làm gì, thiếu reference | Mất tối đa **0.3đ**            |                                              |
-
-#### 3.2. Architecture
-
-| Trường hợp                                                    | Mức trừ / giới hạn                | Ghi chú                                          |
-| ------------------------------------------------------------- | --------------------------------- | ------------------------------------------------ |
-| Architecture hoàn toàn do GenAI tạo                           | **Architecture = 0**              | Không chấm                                       |
-| Có dùng AI, đã chỉnh nhưng còn lỗi rõ                         | **-1đ**                           | Mất 0.5 Tiêu chuẩn AWS + 0.3 Tự vẽ + 0.2 Thẩm mỹ |
-| Sai AWS service/icon/name/flow hoặc dùng service sai mục đích | Trừ trong **0.5đ** Tiêu chuẩn AWS | Mức trừ theo mức độ sai                          |
-| Diagram mờ, chồng chéo, bố cục/flow khó đọc                   | Trừ trong **0.2đ** Thẩm mỹ        | Mức trừ theo mức độ                              |
-| Không đáp ứng 1 pillar Well-Architected                       | **Trừ 0–0.5 / pillar**            | 6 pillars, tổng tối đa 3.0                       |
-
-#### 3.3. Production / Workshop
-
-| Trường hợp                                                   | Mức trừ / giới hạn             | Ghi chú                                      |
-| ------------------------------------------------------------ | ------------------------------ | -------------------------------------------- |
-| Không thể hiện được như Architecture đã vẽ                   | **Trừ ½ số điểm** Architecture |                                              |
-| Không vẽ Architecture HOẶC không trình bày Workshop/Proposal | **Workshop = 0**               | Quy tắc khóa Workshop                        |
-| Không demo và không có sản phẩm                              | **Demo = 0**                   |                                              |
-| Thiếu phần COST                                              | **Trình bày = 0**              | Điều kiện bắt buộc của mục Trình bày         |
-| Trình bày quá ngắn / thiếu chi tiết                          | Chấm trong khoảng **0–1đ**     | Tùy mức độ đầy đủ COST, Proposal và Workshop |
-
-#### 3.4. Thái độ / tác phong
-
-| Trường hợp                                         | Mức trừ / giới hạn        | Ghi chú                                                     |
-| -------------------------------------------------- | ------------------------- | ----------------------------------------------------------- |
-| Gian dối / không trung thực                        | **Thái độ = 0đ**          | Ví dụ: cố tình khai/đọc sai thông tin, chối hành vi rõ ràng |
-| Vắng                                               | **-0.3đ / buổi**          | Trừ trong mục Tuân thủ nội quy 1.0                          |
-| Tự ý bỏ về                                         | **Tuân thủ nội quy = 0đ** | Áp dụng ngay cho mục này                                    |
-| Vi phạm nội quy: làm việc riêng, đi trễ, mang dép… | **-0.2đ / lần**           | Tùy mức độ có thể trừ thêm sang Thái độ                     |
-| Hút thuốc tại văn phòng                            | **0 điểm cả 2 mục**       | Thái độ = 0/1 và Tuân thủ = 0/1                             |
-
-#### 3.5. Chuyên cần
-
-| Trường hợp                                      | Mức trừ / giới hạn     | Ghi chú                   |
-| ----------------------------------------------- | ---------------------- | ------------------------- |
-| Thiếu buổi office                               | **-0.1đ / buổi**       | Trừ đến hết 0.5 điểm      |
-| Thiếu event                                     | **-0.3đ / event**      | So với yêu cầu đủ 3 event |
-| Có tham gia nhưng thiếu ảnh / ảnh không rõ ràng | Event đó chỉ **+0.2đ** | Ảnh phải đủ rõ và hợp lệ  |
-
-#### 3.6. Bonus
-
-| Trường hợp                                                          | Mức trừ / giới hạn | Ghi chú                                        |
-| ------------------------------------------------------------------- | ------------------ | ---------------------------------------------- |
-| Không full Nhóm 3 hoặc Nhóm 4 hoặc chưa hoàn thành Workshop/project | **Bonus = 0**      | Bonus chỉ cộng khi đủ đồng thời cả 3 điều kiện |
-
----
-
-### 4. Bảng tổng kết
-
-| Nhóm        | Worklog | Workshop | Thái độ | Chuyên cần | Bonus | TỔNG |
-| ----------- | ------- | -------- | ------- | ---------- | ----- | ---- |
-| Điểm tối đa | 1.0     | 5.0      | 2.0     | 1.5        | 0.5   | 10   |
 
 ---
 
