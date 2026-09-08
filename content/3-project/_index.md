@@ -6,6 +6,10 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
+{{% notice note %}}
+**Thời gian nộp project:** 15 ngày trước ngày cần mộc để nộp về trường.
+{{% /notice %}}
+
 ### 1. Hình thức và công cụ làm báo cáo
 
 #### 1.1. Hình thức bắt buộc

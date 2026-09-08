@@ -22,7 +22,7 @@ Tài liệu này mô tả **barem tổng quan** và **các quy tắc / lưu ý q
 | **TỔNG**            | **10.0**    |                              |
 
 {{% notice info %}}
-Yêu cầu điểm tổng kết **tối thiểu 7.0/10** để được xét chứng nhận hoàn thành thực tập.
+Yêu cầu điểm tổng kết **tối thiểu 7.0/10** để được xét duyệt tham gia **Chương trình FCAJ Challenger**.
 {{% /notice %}}
 
 ---
