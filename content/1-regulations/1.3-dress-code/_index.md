@@ -29,9 +29,20 @@ Chuẩn mực về **trang phục** và **tác phong làm việc** khi có mặt
 - **Bắt buộc mang giày kín mũi và gót.**
 - Trang phục **gọn gàng, chỉnh chu**, phù hợp môi trường làm việc chuyên nghiệp.
 
+**Áo đồng phục FCAJ:**
+
+- Khuyến khích mặc **áo đồng phục FCAJ** khi đến văn phòng để tạo môi trường chuyên nghiệp, đồng bộ và thuận tiện nhận diện khi ra vào tòa nhà/văn phòng.
+- Đăng ký mua áo đồng phục được thực hiện trực tiếp trên Portal (chi tiết xem tại **[2.2. Hướng dẫn đăng ký đồng phục](../../2-instructions/2.2-register/#đăng-ký-đồng-phục-fcaj)**).
+
+![Áo đồng phục Polo FCAJ](/images/1-regulations/polo.png)
+
+- Tham khảo **bảng quy chuẩn chọn size áo Polo FCAJ**:
+
+![Bảng size áo đồng phục FCAJ](/images/1-regulations/size.png)
+
 **Trường hợp chưa có áo đồng phục:**
 
-- Mang áo đồng phục của trường (nếu có) hoặc áo bình thường.
+- Mang áo đồng phục của trường (nếu có) hoặc áo lịch sự, nhã nhặn.
 - **Đeo thẻ sinh viên** trong suốt quá trình học tập và làm việc tại văn phòng.
 
 {{% notice warning %}}

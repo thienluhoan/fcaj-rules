@@ -144,6 +144,9 @@ Trường hợp trạng thái **Approved** nhưng không có mail, vui lòng li�
 ![app-ui-1](/images/2-instructions/17.png)
 
 - Tại trang đăng ký áo, nhập đầy đủ và chính xác các thông tin.
+- Tham khảo **bảng quy chuẩn chọn size áo Polo FCAJ** bên dưới để chọn kích cỡ phù hợp:
+
+![Bảng size áo đồng phục FCAJ](/images/1-regulations/size.png)
 
 ![app-ui-1](/images/2-instructions/18.png)
 

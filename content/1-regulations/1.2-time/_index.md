@@ -15,7 +15,7 @@ Quy định về **giờ làm việc, khung giờ điểm danh trên portal, đ�
 | Giờ làm việc | **09:00 – 17:00** (T2–T6) | Tại văn phòng |
 | Check-in trên portal | **09:00 – 10:00** | Bắt buộc |
 | Check-out trên portal | **16:00 – 17:00** | Bắt buộc |
-| Đăng ký lên văn phòng | **16:00 – 17:00** mỗi ngày | Cho buổi kế tiếp |
+| Đăng ký lên văn phòng | **Thứ 2 – Thứ 6 trước 17:00** | Cho buổi kế tiếp |
 | Nghỉ trưa | **12:00 – 13:30** | Linh hoạt |
 | Có mặt hợp lý | **08:45** | Không quá sớm/quá trễ |
 
@@ -41,7 +41,7 @@ Chỉ được công nhận điểm danh thành công khi hoàn thành **CẢ ch
 
 ### 3. Đăng ký lên văn phòng
 
-- Đăng ký lịch lên văn phòng **trên portal** trong khung **16:00 – 17:00 chủ nhật đến thứ 5** (cho các buổi kế tiếp).
+- Đăng ký lịch lên văn phòng **trên portal** từ **thứ 2 đến thứ 6 trước 17:00** (cho các buổi kế tiếp).
 - Quy định hủy đăng ký và xử lý vắng mặt: xem **[1.1. Chuyên cần & Điểm danh](../1.1-diligence/)**.
 
 ### 4. Nghỉ trưa
