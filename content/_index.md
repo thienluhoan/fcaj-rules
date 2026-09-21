@@ -29,7 +29,7 @@ II. [Hướng dẫn](2-instructions/)
 5.  [Hướng dẫn điểm danh](2-instructions/2.5-attendance/)
 6.  [Hướng dẫn sử dụng nhà vệ sinh](2-instructions/2.6-toilet/)
   
-III. [Hướng dẫn project](3-project/)
+III. [Quy định về Workshop](3-project/)
 
 IV. [Xử lý vi phạm](4-violations/)
 

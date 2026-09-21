@@ -123,4 +123,4 @@ Sinh viên chỉ được cộng điểm thưởng khi **thỏa mãn đồng th�
 
 ---
 
-**Liên quan:** [3. Quy định về project](../3-project/) · [4. Xử lý vi phạm](../4-violations/) · [1.1. Chuyên cần](../1-regulations/1.1-diligence/)
+**Liên quan:** [3. Quy định về Workshop](../3-project/) · [4. Xử lý vi phạm](../4-violations/) · [1.1. Chuyên cần](../1-regulations/1.1-diligence/)

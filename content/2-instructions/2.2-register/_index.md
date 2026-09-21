@@ -102,7 +102,7 @@ Trường hợp trạng thái **Approved** nhưng không có mail, vui lòng li�
 
 - Truy cập trang **Workshop Submission** để nộp Workshop
 - Điền đầy đủ các thông tin cần thiết.
-- Workshop link **không phải** là link source code, mà đó là nơi các bạn host workshop các bạn (trên github page hoặc vercel,...). Chi tiết xem tại [3. Quy định về project](https://hcm-rules.awsfcaj.com/3-project/)
+- Workshop link **không phải** là link source code, mà đó là nơi các bạn host workshop các bạn (trên github page hoặc vercel,...). Chi tiết xem tại [3. Quy định về Workshop](https://hcm-rules.awsfcaj.com/3-project/)
 
 ![app-ui-1](/images/2-instructions/12.png)
 
