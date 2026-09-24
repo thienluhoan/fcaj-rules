@@ -19,9 +19,7 @@ Các bạn cần đăng ký account trước khi lên văn phòng để phục v
 - Nếu chưa có tài khoản, bấm **Register now**.
         
 ![app-ui-1](/images/2-instructions/1.png)
-            
-> Tạm thời tại thời điểm này, các bạn sẽ **không thể chỉnh** được ngày và giờ đăng ký, mặc định là 09:00 của ngày tiếp theo. <br>
-> Ví dụ: Hôm nay là ngày 01/01/2025, các bạn sẽ phải đăng ký cho ngày mai là ngày 02/01/2025 vào lúc 09:00 AM. <br>
+
 > Vui lòng chỉ sử dụng 1 email duy nhất trong suốt quá trình học tập tại FCAJ
 
 - Nhập các thông tin và bấm **Create account**.
@@ -71,8 +69,10 @@ Lưu ý: Điền đầy đủ họ tên, viết hoa chữ cái đầu, có dấu
 
 {{% notice note %}}
 **Lưu ý:** Sau khi đã được duyệt lên văn phòng, kiểm tra email để xác nhận thông tin.
-Trường hợp trạng thái **Approved** nhưng không có mail, vui lòng liên hệ team admin để được hỗ trợ.
-**Bắt buộc** phải có mail mới được lên văn phòng.
+
+Trường hợp trạng thái **Approved** nhưng không có mail, vẫn lên văn phòng như trạng thái portal. 
+
+Ưu tiên tuân thủ theo trạng thái trên portal. 
 {{% /notice %}}
 
 ![app-ui-1](/images/2-instructions/22.png)
