@@ -10,13 +10,13 @@ Chuẩn mực về **trang phục** và **tác phong làm việc** khi có mặt
 
 ### Tra cứu nhanh
 
-| Yêu cầu | Bắt buộc / Khuyến khích |
-|---|---|
-| Áo đồng phục FCAJ | Khuyến khích (nếu đã có) |
-| Quần dài | **Bắt buộc** |
-| Giày kín mũi và gót | **Bắt buộc** |
-| Dép (lê, kẹp, sandal hở, crocs) | **Cấm** |
-| Đeo thẻ sinh viên | Bắt buộc (khi chưa có đồng phục) |
+| Yêu cầu                         | Bắt buộc / Khuyến khích          |
+| ------------------------------- | -------------------------------- |
+| Áo đồng phục FCAJ               | Khuyến khích (nếu đã có)         |
+| Quần dài                        | **Bắt buộc**                     |
+| Giày kín mũi và gót             | **Bắt buộc**                     |
+| Dép (lê, kẹp, sandal hở, crocs) | **Cấm**                          |
+| Đeo thẻ sinh viên               | Bắt buộc (khi chưa có đồng phục) |
 
 ---
 
@@ -42,7 +42,7 @@ Chuẩn mực về **trang phục** và **tác phong làm việc** khi có mặt
 
 **Trường hợp chưa có áo đồng phục:**
 
-- Mang áo đồng phục của trường (nếu có) hoặc áo lịch sự, nhã nhặn.
+- Mặc áo đen lịch sự, nhã nhặn.
 - **Đeo thẻ sinh viên** trong suốt quá trình học tập và làm việc tại văn phòng.
 
 {{% notice warning %}}
